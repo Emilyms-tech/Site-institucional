@@ -33,4 +33,4 @@ Ou acesse diretamente pelo GitHub Pages:
 
 ## Autora
 
-Emy Silva
+Emily Silva
