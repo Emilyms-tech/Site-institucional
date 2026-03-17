@@ -23,7 +23,7 @@ A ideia do projeto foi praticar desenvolvimento web e organizar informações so
 
 Ou acesse diretamente pelo GitHub Pages:
 
-(https://emilyms-tech.github.io/Site-institucional/)
+https://emilyms-tech.github.io/Site-institucional/
 
 ## O que aprendi com esse projeto
 
